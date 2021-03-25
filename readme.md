@@ -1,6 +1,6 @@
-#Koh96 Gruppe
+# Koh96 Gruppe
 
-##Gruppemedlemmer: 
+## Gruppemedlemmer: 
 Syvert Andreas Eidjord
 Marie Stigen
 Jonas Braut Hansen
